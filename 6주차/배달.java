@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class 배달 {
 
 	/*
-	 * 최소 스패닝 트리? 1번 부터 시작해서 k미만 까지 갈 수 있는 곳 체크하기,
+
 	 */
 	
 	static int N;
