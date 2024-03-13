@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+//175484kb	2096ms      ->투포인터로 풀어보기
 public class Main {
 	/*
 	 * M미터를 가지고 가기 위한 최대 높이값 구하기
